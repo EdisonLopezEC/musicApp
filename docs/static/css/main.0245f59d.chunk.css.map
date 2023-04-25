@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/homePage/stylesSearch.css"],"names":[],"mappings":"AAEA,cACI,iBACJ,CACA,iCACQ,YACR","file":"main.0245f59d.chunk.css","sourcesContent":["\r\n\r\n#scroll-hiden{\r\n    overflow-y: scroll;\r\n}\r\n#scroll-hiden::-webkit-scrollbar{\r\n        display: none;\r\n}"]}
